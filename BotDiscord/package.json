@@ -1,0 +1,13 @@
+{
+  "name": "bot-discord",
+  "version": "0.0.0",
+  "description": "BotDiscord",
+  "main": "app.js",
+  "author": {
+    "name": "Sindius"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "winston": "^3.2.1"
+  }
+}
